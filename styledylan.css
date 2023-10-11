@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(117, 107, 126);
+}
+.wrapper{
+    width: 70%;
+	margin: 0 auto;
+}
+.nav-bar nav{
+    display: flex;
+	justify-content: space-between;
+}
+a{
+    color: wheat;
+    text-decoration: none;
+}
+.hobbies ul li{
+    background-color: antiquewhite;
+    color: brown;
+}
+.img{
+   background-color: palevioletred;
+   color: aqua;
+}
