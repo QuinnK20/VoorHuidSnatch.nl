@@ -10,6 +10,7 @@
         <header>
             <div class="nav-bar">
                 <nav>
+                    <a href="index.php">index</a>
                     <a href="quinn.php">quinn</a>
                     <a href="jasper.php">jasper</a>
                     <a href="rick.php">rick</a>
