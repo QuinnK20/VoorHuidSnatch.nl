@@ -10,7 +10,7 @@
 
 </header>
 <body>
-    
+<img src="../img/brilsmurf" alt="brilsmurf">
     
 </body>
 <footer>   
