@@ -3,7 +3,16 @@
 	padding: 0;
 }
 
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lemonchiffon;
+}
+
 .wrapper{
 	width:70%;
 	margin:0 auto;
+}
+
+.bidenblast{
+    width: 100%;
 }
